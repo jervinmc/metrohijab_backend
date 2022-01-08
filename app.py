@@ -2,7 +2,6 @@
 import string
 import random
 import smtplib
-import sklearn
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from flask import Response
